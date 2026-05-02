@@ -1,0 +1,1 @@
+package info.kgeorgiy.ja.islamova.walk;
